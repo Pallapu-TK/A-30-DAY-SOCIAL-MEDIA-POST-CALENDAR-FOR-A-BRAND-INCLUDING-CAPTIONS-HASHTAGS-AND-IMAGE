@@ -43,3 +43,7 @@ This calendar balances consistency and creativity, addressing key aspects of a s
 - **Engagement:** Interactive posts encourage audience participation, boosting algorithm performance.  
 - **Authority:** Educational content demonstrates expertise, building trust with potential clients.  
 - **Conversion:** Promotional posts drive tangible business results, ensuring ROI.
+
+**OUTPUT**
+
+[codtech (1).xlsx](https://github.com/user-attachments/files/18571332/codtech.1.xlsx)
